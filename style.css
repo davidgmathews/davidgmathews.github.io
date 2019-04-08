@@ -1,0 +1,25 @@
+h1 { 
+    /* display: block; */
+    font-size: 2em;
+    /* margin-top: 0.67em;
+    margin-bottom: 0.67em; */
+    margin-left: 1em;
+    /* margin-right: 0; */
+    font-weight: bold;
+  } 
+  #figure {
+    position: relative;
+  }
+  /* .container {
+    width: 1024px;
+    margin: 0 auto;
+  } */
+  #bio-image {
+    float: left;
+  }
+  .row{
+    margin: 10px
+  }
+  .section{
+    margin-left: 10px
+  }
