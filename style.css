@@ -10,16 +10,23 @@ h1 {
   #figure {
     position: relative;
   }
-  /* .container {
-    width: 1024px;
+  .container {
+    /* width: 1024px; */
     margin: 0 auto;
-  } */
+  }
   #bio-image {
     float: left;
   }
-  .row{
+  /* .row{
     margin: 10px
-  }
-  .section{
+  } */
+  /* .section{
     margin-left: 10px
-  }
+  } */
+  /* .col-lg-6{
+    margin: 2px
+  } */
+
+  @media (max-width: 480px) {
+    
+    }
