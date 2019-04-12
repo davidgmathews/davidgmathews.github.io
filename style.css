@@ -1,32 +1,32 @@
 h1 { 
-    /* display: block; */
-    font-size: 2em;
-    /* margin-top: 0.67em;
-    margin-bottom: 0.67em; */
-    margin-left: 1em;
-    /* margin-right: 0; */
-    font-weight: bold;
+    
+    background-color: rgb(57, 204, 204);
   } 
-  #figure {
-    position: relative;
-  }
+ 
   .container {
-    /* width: 1024px; */
+    
     margin: 0 auto;
   }
-  #bio-image {
-    float: left;
-  }
-  /* .row{
-    margin: 10px
-  } */
-  /* .section{
-    margin-left: 10px
-  } */
-  /* .col-lg-6{
-    margin: 2px
-  } */
+  
+  @media only screen and (max-width: 600px) {
+    nav {
+      background-color: rgb(57, 204, 204);
 
-  @media (max-width: 480px) {
-    
     }
+    
+  }
+  .btn{
+    font-size: .25in;
+    border-color: rgb(57, 204, 204);
+    background-color: rgb(57, 204, 204);
+    width:2in;
+  }
+
+  h2 {
+    color: rgb(57, 204, 204);
+  }
+  h3 {
+    color: rgb(57, 204, 204);
+  }
+  
+  
